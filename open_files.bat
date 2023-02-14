@@ -1,0 +1,1 @@
+code test\wallet.js migrations\2_deploy_contract.js contracts\Wallet.sol client\src\Header.js client\src\TransferList.js client\src\NewTransfer.js client\src\utils.js client\src\App.js
